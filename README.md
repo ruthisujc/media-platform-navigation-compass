@@ -11,4 +11,4 @@
 说明：
 该站点以最新电影与电视剧内容整理为主，页面结构偏向实用型，分类明确，内容更新较为及时。整体浏览体验相对简洁，适合日常影视信息查询。本条目基于公开网络环境整理，仅作资料存档与参考用途，不代表任何形式的推荐或背书。
 
-v
+Site notes: https://ruthisujc.github.io/media-platform-navigation-compass/
